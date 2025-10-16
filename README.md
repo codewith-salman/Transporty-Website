@@ -5,7 +5,7 @@
 
 
 ## 🚚 Transportio – Transport & Logistics Website  
-A modern and fully responsive **Transport & Logistics Website UI** built with HTML, CSS, and JavaScript.  
+A modern and fully responsive **Transport & Logistics Website UI** built with HTML, CSS, and JS.  
 This design represents a professional logistics service with smooth layout, clear information hierarchy, and a strong corporate identity.
 
 </div>
@@ -29,8 +29,7 @@ Each section is designed for clarity and trust-building, from service highlights
 - Professional layout for transport and logistics  
 - Clean UI with modern branding  
 - Smooth animations and transitions  
-- Lightweight and easy to customize  
-
+- Lightweight and easy to customize
 
 ---
 
