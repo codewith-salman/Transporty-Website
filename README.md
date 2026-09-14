@@ -67,7 +67,6 @@ Ideal for:
 - Courier and delivery services
 - Cargo and shipping businesses
 - Transport startups
-- Front-end UI and responsive design practice
 
 ---
 
