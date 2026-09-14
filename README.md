@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="Transporty%20Website/assets/images/logo.png" alt="Transportio Transport & Logistics Website Logo" width="120"/>
+<img src="Transporty%20Website/favicon.svg" alt="Transportio Transport & Logistics Website Logo" width="120"/>
 
 <br />
 <br />
