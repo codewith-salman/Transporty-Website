@@ -69,8 +69,6 @@ Ideal for:
 - Transport startups
 - Front-end UI and responsive design practice
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -83,8 +81,6 @@ Ideal for:
 - Modern typography and spacing
 - Easy to customize and expand
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -94,8 +90,6 @@ This project is built using:
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
